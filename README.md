@@ -1,4 +1,4 @@
-# projects
+# PROJECTS
 This repository contains "What I've done from lectures"
 
 ## 1st Semester (2021)
