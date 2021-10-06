@@ -1,10 +1,9 @@
 # PROJECTS
-This repository contains "What I've done from lectures"
+This repository contains "Data project with 중앙해양중공업"
 
-## 1st Semester (2021)
-1. Data Programming Language
-2. Databases System
-
-## 2nd Semester (2021)
-## 3rd Semester (2022)
-## 4th Semester (2022)
+## Project Process
+1. 데이터 수집
+2. DB 설계
+3. 데이터 입력
+4. 질의 구현
+5. 웹 구현
